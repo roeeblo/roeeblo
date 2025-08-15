@@ -41,7 +41,7 @@ Passionate about **full-stack development**, **clean code**, and **building smar
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🛠️ Extras & Concepts
+### Extras & Concepts
 <p>
   <img src="https://img.shields.io/badge/OOP-FF6F61?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-008080?style=for-the-badge"/>
