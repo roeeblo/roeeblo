@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a B.Sc. graduate from **Holon Institute of Technology** (2022–2025)  
+I'm a B.Sc. Computer Science graduate from **Holon Institute of Technology** (2022–2025)  
 Passionate about **Backend Oriented- Full Stack development**, **clean code**, and **using new and different technologies**
 
 ---
