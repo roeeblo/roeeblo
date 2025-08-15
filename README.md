@@ -8,14 +8,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a B.Sc. graduate from **Holon Institute of Technology** (2022–2025)  
 Passionate about **full-stack development**, **clean code**, and **building smart systems**
 
 ---
 
-## 🧰 Technologies & Skills
+## Technologies & Skills
 
 ### 🧑‍💻 Languages
 <p>
@@ -54,7 +54,7 @@ Passionate about **full-stack development**, **clean code**, and **building smar
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 [Algorithm Visualizer](https://github.com/roeeblo/PHP_JS---AlgorithmVisualizer)
 <img src="https://github.com/roeeblo/PHP_JS---AlgorithmVisualizer/raw/main/preview.gif" width="500"/>
