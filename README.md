@@ -71,8 +71,10 @@ Full-featured electronics store built with **ASP.NET Core MVC**, with role-based
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roeeblo/roeeblo/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/roeeblo.png?size=300" width="100" /><br>
+  <b>More coming soon...</b>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
