@@ -57,15 +57,16 @@ Passionate about **full-stack development**, **clean code**, and **building smar
 ## Featured Projects
 
 ### 🔹 [Algorithm Visualizer](https://github.com/roeeblo/PHP_JS---AlgorithmVisualizer)
-<img src="https://github.com/roeeblo/PHP_JS---AlgorithmVisualizer/raw/main/preview.gif" width="500"/>
-
 Visualizes sorting algorithms in real time using **PHP (MVC)** backend and **p5.js** animations.
 
 ---
 
-### 🔹 [ASP.NET eCommerce Store](https://github.com/roeeblo/ASP.NET_Core_MVC-eCommerce-Roee-s-Store)
-<img src="https://github.com/roeeblo/ASP.NET_Core_MVC-eCommerce-Roee-s-Store/raw/main/demo.gif" width="500"/>
+### 🔹 [2D Dungeon Game](https://github.com/roeeblo/OOP_Unity---DungeonEscape)
+A 2D dungeon crawler game built with **Unity**, featuring player movement, enemy AI, item pickups, and game mechanics with **custom physics** and scripting.
 
+---
+
+### 🔹 [ASP.NET eCommerce Store](https://github.com/roeeblo/ASP.NET_Core_MVC-eCommerce-Roee-s-Store)
 Full-featured electronics store built with **ASP.NET Core MVC**, with role-based auth, PayPal integration & more.
 
 ---
