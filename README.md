@@ -72,7 +72,7 @@ Full-featured electronics store built with **ASP.NET Core MVC**, with role-based
 
 <p align="center">
   <img src="https://github.com/roeeblo.png?size=300" width="100" /><br>
-  <b>More coming soon...</b>
+  <b>Looking forward to coding together</b>
 </p>
 
 
