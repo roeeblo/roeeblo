@@ -76,7 +76,6 @@ Full-featured electronics store built with **ASP.NET Core MVC**, with role-based
   <b>Looking forward to coding together</b>
 </p>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
