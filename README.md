@@ -54,8 +54,18 @@ Passionate about **Backend Oriented- Full Stack development**, **clean code**, a
 
 ## Featured Projects
 
-### 🔹 [Algorithm Visualizer](https://github.com/roeeblo/PHP_JS---AlgorithmVisualizer)
-Visualizes sorting algorithms in real time using **PHP (MVC)** backend and **p5.js** animations.
+ ---
+ 
+### 🔹 Smart Job Tracker – Full-Stack Web Application
+A modern, end-to-end job-search management system built with a full DevOps-ready architecture.
+
+Frontend: React, Vite, TailwindCSS, Zustand state management
+
+Backend: Node.js, Express, PostgreSQL
+
+Infrastructure & DevOps: Docker, Docker-Compose, GitHub Actions CI/CD, GHCR images, Minikube (Kubernetes)
+
+Key Features: Job tracking, application statuses, activity logging, analytics dashboard, filtering & insights
 
 ---
 
@@ -64,8 +74,8 @@ A 2D dungeon crawler game built with **Unity**, featuring player movement, enemy
 
 ---
 
-### 🔹 [ASP.NET eCommerce Store](https://github.com/roeeblo/ASP.NET_Core_MVC-eCommerce-Roee-s-Store)
-Full-featured electronics store built with **ASP.NET Core MVC**, with role-based auth, PayPal integration & more.
+### 🔹 [Algorithm Visualizer](https://github.com/roeeblo/PHP_JS---AlgorithmVisualizer)
+Visualizes sorting algorithms in real time using **PHP (MVC)** backend and **p5.js** animations.
 
 ---
 
