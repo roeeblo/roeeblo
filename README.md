@@ -56,16 +56,14 @@ Passionate about **Backend Oriented- Full Stack development**, **clean code**, a
 
  ---
  
-### 🔹 Smart Job Tracker – Full-Stack Web Application
+### 🔹 [Smart Job Tracker – Full-Stack Web Application](https://github.com/roeeblo/JS_Smart_Job_Tracker)
 A modern, end-to-end job-search management system built with a full DevOps-ready architecture.
 
-Frontend: React, Vite, TailwindCSS, Zustand state management
+- **Frontend:** React, Vite, TailwindCSS, Zustand state management  
+- **Backend:** Node.js, Express, PostgreSQL  
+- **Infrastructure & DevOps:** Docker, Docker-Compose, GitHub Actions CI/CD, GHCR images, Minikube (Kubernetes)  
+- **Key Features:** Job tracking, application statuses, activity logging, analytics dashboard, filtering & insights  
 
-Backend: Node.js, Express, PostgreSQL
-
-Infrastructure & DevOps: Docker, Docker-Compose, GitHub Actions CI/CD, GHCR images, Minikube (Kubernetes)
-
-Key Features: Job tracking, application statuses, activity logging, analytics dashboard, filtering & insights
 
 ---
 
